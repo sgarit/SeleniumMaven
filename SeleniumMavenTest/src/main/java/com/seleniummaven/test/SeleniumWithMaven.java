@@ -13,7 +13,7 @@ public class SeleniumWithMaven {
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://www.google.com");
 		System.out.println(driver.getTitle());
-		System.out.println("Ragini Nara");
+		System.out.println("Ragini Nara ravi vavilipalli");
 		driver.manage().window().maximize();
 		
 		}
